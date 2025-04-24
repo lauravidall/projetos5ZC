@@ -1,0 +1,11 @@
+f1_dashboard/
+│
+├── main.py
+├── data/
+│   └── races.csv        # dados das corridas
+├── pages/
+│   ├── dashboard.py     # conteúdo principal
+│   └──          
+├── utils/
+│   └── charts.py        # funções para gráficos
+│   └── mapa.py          # função para o mapa
